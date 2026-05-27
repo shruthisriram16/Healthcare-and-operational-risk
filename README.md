@@ -312,4 +312,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-> *"Data-driven decisions in healthcare don't just improve operations — they save lives and protect livelihoods."*
